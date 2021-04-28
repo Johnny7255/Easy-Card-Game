@@ -1,0 +1,658 @@
+fileFormatVersion: 2
+guid: 511e2c5cc32ddbf47ab71bae89f543da
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8319918424812562581
+    second: Amiya(1)_0
+  - first:
+      213: -3946174940722146117
+    second: Amiya(1)_1
+  - first:
+      213: 5436044486466523796
+    second: Amiya(1)_2
+  - first:
+      213: 5343181374465554697
+    second: Amiya(1)_3
+  - first:
+      213: -491132947102255584
+    second: Amiya(1)_4
+  - first:
+      213: -4116456774812409263
+    second: Amiya(1)_5
+  - first:
+      213: 2728178363002683856
+    second: Amiya(1)_6
+  - first:
+      213: -7249999035016351592
+    second: Amiya(1)_7
+  - first:
+      213: -8324338932739117357
+    second: Amiya(1)_8
+  - first:
+      213: -8849888819065745801
+    second: Amiya(1)_9
+  - first:
+      213: -4899556025873974942
+    second: Amiya(1)_10
+  - first:
+      213: 8667533802793575380
+    second: Amiya(1)_11
+  - first:
+      213: 3388757858104806673
+    second: Amiya(1)_12
+  - first:
+      213: 4897786633279029550
+    second: Amiya(1)_13
+  - first:
+      213: 3406785026808839380
+    second: Amiya(1)_14
+  - first:
+      213: -2282206601894254259
+    second: Amiya(1)_15
+  - first:
+      213: -2030235800332463858
+    second: Amiya(1)_16
+  - first:
+      213: 1458639733479614800
+    second: Amiya(1)_17
+  - first:
+      213: -4654946467495429364
+    second: Amiya(1)_18
+  - first:
+      213: -4850977730891728693
+    second: Amiya(1)_19
+  - first:
+      213: 3505253741211000441
+    second: Amiya(1)_20
+  - first:
+      213: 4107006693415381423
+    second: Amiya(1)_21
+  - first:
+      213: 183834182850771058
+    second: Amiya(1)_22
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 60
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Amiya(1)_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 764
+        width: 124
+        height: 219
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67d1d00646b98c80800000000000000
+      internalID: -8319918424812562581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amiya(1)_1
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 764
+        width: 127
+        height: 220
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb455b49cce5c39c0800000000000000
+      internalID: -3946174940722146117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amiya(1)_2
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 763
+        width: 129
+        height: 220
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492de07b8a5b07b40800000000000000
+      internalID: 5436044486466523796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amiya(1)_3
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 763
+        width: 129
+        height: 220
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 909b083962bc62a40800000000000000
+      internalID: 5343181374465554697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amiya(1)_4
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 763
+        width: 130
+        height: 220
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 026ba7ecf252f29f0800000000000000
+      internalID: -491132947102255584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amiya(1)_5
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 538
+        width: 124
+        height: 219
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1526e0c8f586fd6c0800000000000000
+      internalID: -4116456774812409263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amiya(1)_6
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 539
+        width: 122
+        height: 219
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d18ea244cf6cd520800000000000000
+      internalID: 2728178363002683856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amiya(1)_7
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 539
+        width: 122
+        height: 220
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 890fcef2a44d26b90800000000000000
+      internalID: -7249999035016351592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amiya(1)_8
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 537
+        width: 122
+        height: 220
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de612c48d10a7c80800000000000000
+      internalID: -8324338932739117357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amiya(1)_9
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 538
+        width: 122
+        height: 220
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e82edf101ee2580800000000000000
+      internalID: -8849888819065745801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amiya(1)_10
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 537
+        width: 122
+        height: 220
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26938a0e0c7410cb0800000000000000
+      internalID: -4899556025873974942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amiya(1)_11
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 537
+        width: 122
+        height: 220
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d3a3323214494870800000000000000
+      internalID: 8667533802793575380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amiya(1)_12
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 303
+        width: 128
+        height: 219
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d862a4159470f20800000000000000
+      internalID: 3388757858104806673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amiya(1)_13
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 303
+        width: 147
+        height: 219
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e21c04e4efe68f340800000000000000
+      internalID: 4897786633279029550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amiya(1)_14
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 304
+        width: 121
+        height: 223
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc7f059ee4574f20800000000000000
+      internalID: 3406785026808839380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amiya(1)_15
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 305
+        width: 119
+        height: 222
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d49aa0eef29f350e0800000000000000
+      internalID: -2282206601894254259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amiya(1)_16
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 306
+        width: 129
+        height: 221
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0117e6db4723d3e0800000000000000
+      internalID: -2030235800332463858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amiya(1)_17
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 309
+        width: 147
+        height: 221
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059a2510c112e3410800000000000000
+      internalID: 1458639733479614800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amiya(1)_18
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 76
+        width: 172
+        height: 220
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0bb97cc9de466fb0800000000000000
+      internalID: -4654946467495429364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amiya(1)_19
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 82
+        width: 152
+        height: 220
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc83ed0947dddacb0800000000000000
+      internalID: -4850977730891728693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amiya(1)_20
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 84
+        width: 148
+        height: 220
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e9d7cb4b925a030800000000000000
+      internalID: 3505253741211000441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amiya(1)_21
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 83
+        width: 122
+        height: 221
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa9ec2be3d40ff830800000000000000
+      internalID: 4107006693415381423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amiya(1)_22
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 82
+        width: 121
+        height: 221
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278f46e173c1d8200800000000000000
+      internalID: 183834182850771058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

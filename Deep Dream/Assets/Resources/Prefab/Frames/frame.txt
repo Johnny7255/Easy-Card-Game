@@ -1,0 +1,3 @@
+frame中的文件是一个确切的模板框架。比如Character框架，要更换其具体内容
+只需要更改其中的sprite的内容，cardFrame则是其中scriptableObject中CardFrame类
+的实例或者ID。

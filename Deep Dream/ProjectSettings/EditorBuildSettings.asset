@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scene/MainMenu.unity
+    guid: 73b0256b3fb1fa54b8a5d162274aac7a
+  - enabled: 1
+    path: Assets/Scene/map.unity
+    guid: beb577b0bcfdbef4cb53625b23983fe3
+  - enabled: 1
+    path: Assets/Scene/BattlePKQ.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scene/BattlePKQ 1.unity
+    guid: d9e79de3040c43741b0d12c84189be2c
+  m_configObjects: {}

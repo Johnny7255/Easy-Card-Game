@@ -1,0 +1,1 @@
+这是根据Character框架所做出来的包含sprite中的实例

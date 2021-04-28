@@ -1,0 +1,5 @@
+CardFrame是一个scriptableObject，目前记录卡的费用，ID，Sprite，描述和名字
+
+CardInstance是具体挂载在卡上的项目，其包含的内容有CardBase（框架中已经赋值）
+和CardFrame（可手动赋值）已经ID（当没有CardFrame实例不存在的时候从CardBase
+中获取相应实例）
